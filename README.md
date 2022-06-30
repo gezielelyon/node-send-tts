@@ -4,4 +4,4 @@
 
 # NodeJs API to send TTS
 
-This is a NodeJs API to monitor servers's status and send TTS (text to speech) when something wrong occur
+This is a NodeJs API to monitor servers's status and send TTS (text to speech) when something wrong occur.
