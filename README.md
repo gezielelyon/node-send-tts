@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **NodeJS Send TTS**
+# **Send TTS**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/node_send_tts)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/node_send_tts)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/node_send_tts)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/node_send_tts)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/send_tts)](https://github.com/gezielelyon/send_tts/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/send_tts)](https://github.com/gezielelyon/send_tts/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/send_tts)](https://github.com/gezielelyon/send_tts/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/send_tts)](https://github.com/gezielelyon/send_tts)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Runtime-orange)
 
